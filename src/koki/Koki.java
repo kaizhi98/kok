@@ -19,6 +19,7 @@ public class Koki {
         System.out.println("main");
         System.out.println("first-message");
         System.out.println("nahnahnah-message");
+        //comment from remote master page
     }
     
 }
