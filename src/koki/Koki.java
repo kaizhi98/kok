@@ -18,6 +18,7 @@ public class Koki {
         // TODO code application logic here
         System.out.println("main");
         System.out.println("first-message");
+        System.out.println("nahnahnah-message");
     }
     
 }
